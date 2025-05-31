@@ -1,0 +1,13 @@
+{
+  "name": "SINERGI",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x417bE02AdC8b1B8225dBaaAE828F5457bcAE5Eef",
+      "name": "SINERGI",
+      "symbol": "SNG",
+      "decimals": 18,
+      "logoURI": "file_00000000622061fdab0c74fcff404546.png"
+    }
+  ]
+}
